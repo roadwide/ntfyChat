@@ -2,6 +2,8 @@
 
 A private, self-hosted chat for moving text, screenshots and files between your own devices. It is a single-page web app on top of [ntfy](https://ntfy.sh) — ntfy is the whole backend, this project is the UI that makes it feel like a chat instead of a pub/sub console.
 
+中文文档：[README.zh-CN.md](README.zh-CN.md)
+
 <!-- Screenshot: add a capture of the chat UI (desktop + mobile) here, e.g. docs/screenshot.png -->
 
 The interface is in Chinese (私人传输, "Private Transfer"). The rest of this README is in English.
